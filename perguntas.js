@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Mitologia',
     'Quem é Jörmungandr?',
-    'Na mitoliga nórdica, Jormungand, também chamado de Jörmundgander, é uma criatura monstruosa em forma de cobra gigante. Era conhecida com "A Serpente do Mundo", pelo fato de quando ela se enrolava mordendo a própria cauda, podia dar a volta completa no mundo, que no caso era chamado de Midgard, na cosmologia nórdica.'
+    'Na mitoliga nórdica, Jormungand, também chamado de Jörmundgander, é uma criatura monstruosa em forma de cobra gigante. Era conhecida com "A Serpente do Mundo", pelo fato de quando ela se enrolava mordendo a própria cauda, podia dar a volta completa no mundo'
 )
 
 criaCartao(
